@@ -1,0 +1,15 @@
+EDITING DATA:
+1)Overwriting and editing Cell contents 
+2)Editing formulae and fucntions 
+3)Using undo /redo
+4)Find and replace 
+5)Goto
+
+for search : ctrl+F
+for replace : ctrl+H 
+Overwritting ke liye: One click
+Editing ke liye : Double click 
+
+ctrl+Z :undo
+ctrl+Y :redo
+ctrl+G: goto 
