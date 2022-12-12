@@ -4,4 +4,7 @@
   for showing formula =ctrl+~  (shortcut)
   for showing fomrula = ribbbon-> fomrula -> show formula (longcut)
  2) Absolute reference:
- press f4 for cell being locked.
+ press f4 for cell being locked.($)
+  3) Mixed reference 
+  press f4 for locking particular row or col 
+  
