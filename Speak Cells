@@ -2,3 +2,8 @@ Speak Cells is options hidden at back end  we need to bring that option  at fron
 Speak cell present in options->QAT->All commands  then select 
 
 If text surround  the another text then by default it will start speaking in horizontal manner 
+
+Speak cells by rows 
+Speak cells by columns 
+Speak cells on enter 
+Stop speaking cells
