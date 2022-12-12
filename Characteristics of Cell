@@ -1,0 +1,5 @@
+Characteristics of Cell:
+1) if there is text in cell then it is at left hand side. 
+2)if there is number  in cell then it is at right  hand side .
+3)if there is boolean  in cell then it is at middle. 
+4) Error in formula : then error present at middle 
