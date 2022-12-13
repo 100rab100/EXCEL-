@@ -8,3 +8,7 @@ ctrl+N : for new workbook
 3)Fill drag days 
 4) Fill drag custom list 
 5) LEFT and right fill down
+  ctrl+D down 
+  ctrl+R right 
+   for longcut :
+   home-> fill(right hand side )
