@@ -1,2 +1,4 @@
 For custom list :
 FILE ->Options-> Advanced -> Custom list 
+
+ctrl+N : for new workbook 
