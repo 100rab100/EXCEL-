@@ -1,0 +1,2 @@
+For custom list :
+FILE ->Options-> Advanced -> Custom list 
