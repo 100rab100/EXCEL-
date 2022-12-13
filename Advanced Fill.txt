@@ -2,3 +2,9 @@ For custom list :
 FILE ->Options-> Advanced -> Custom list 
 
 ctrl+N : for new workbook 
+
+1) Fill drag number 
+2) Fill drag months 
+3)Fill drag days 
+4) Fill drag custom list 
+5) LEFT and right fill down
